@@ -52,4 +52,8 @@ signal myMainWindow::onClickString -> myMainWindow::onFind -> myXMLHighlighter::
 
 ![editor_xml](https://i.pinimg.com/originals/48/8a/6d/488a6d1ad894197cae0dbf45e51ca82e.gif "Показ работы XML Editor")
 
+### Поддержка
+Если у вас возникли сложности или вопросы, создайте [обсуждение][1] в данном репозитории 
+или напишите на электронную почту libese581@gmail.com.
 
+[1]: https://github.com/libra581/EditorXMLScripts/issues
